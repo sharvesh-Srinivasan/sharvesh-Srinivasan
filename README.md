@@ -79,7 +79,7 @@ Deep Learning project involving SAR imagery analysis, feature extraction, land c
 
 * 200+ LeetCode Problems Solved
 * Strong foundation in Data Structures and Algorithms
-* Focus on Graphs, Trees, Dynamic Programming, and Problem Solving
+* Focus on Problem Solving and Analytical Thinking
 
 ---
 
