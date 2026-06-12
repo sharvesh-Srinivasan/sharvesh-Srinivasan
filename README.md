@@ -1,65 +1,99 @@
-<h1 align="center">HI I AM <br>SHARVESH SRINIVASAN</h1>
+# Sharvesh Srinivasan
 
-###
+Final Year Computer Science Engineering Student
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharvesh-srinivasan/count.svg?"  />
-</div>
+Machine Learning Intern at ISRO NRSC, Hyderabad
 
-###
+Interested in Full Stack Development, Backend Engineering, Machine Learning, and Scalable Systems.
 
-<div align="center">
-</div>
+---
 
-###
+## Tech Stack
 
-<p align="left">Interested coding languages....</p>
+**Languages**
 
-###
+Python • C++ • JavaScript • SQL
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+**Frontend**
 
-###
+React • Tailwind CSS • HTML • CSS
 
-<div align="center">
-</div>
+**Backend**
 
-###
+Node.js • Express.js • REST APIs
 
-###
+**Database**
 
-<div align="center">
-</div>
+MySQL
 
-###
+**DevOps & Tools**
 
-<p align="left">Socials...</p>
+Docker • Git • GitHub Actions • CI/CD • Postman
 
-###
+**Machine Learning**
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+TensorFlow • Scikit-Learn • NumPy • Pandas
 
-###
+---
+
+## Featured Projects
+
+### KisanRate
+
+Agricultural Decision Support Platform that helps farmers manage crop inventory, analyze profits, compare mandi prices, and identify optimal selling opportunities.
+
+**Tech Stack:** React • Node.js • MySQL • Docker • GitHub Actions • Render • Vercel
+
+---
+
+### CareerForge
+
+Placement and Internship Management Platform for tracking applications, interview rounds, referrals, resume versions, reminders, and placement analytics.
+
+**Tech Stack:** React • Node.js • MySQL • JWT • Docker • GitHub Actions
+
+---
+
+### SAR Land Cover Classification
+
+Deep Learning project involving SAR imagery analysis, feature extraction, land cover classification, and model evaluation.
+
+**Tech Stack:** Python • TensorFlow • OpenCV • NumPy • Pandas
+
+---
+
+## Experience
+
+### ISRO NRSC, Hyderabad
+
+**Machine Learning Intern**
+
+* Working with Synthetic Aperture Radar (SAR) datasets
+* Training and evaluating deep learning models
+* Performing land cover classification
+* Conducting model experimentation and performance analysis
+
+---
+
+## Problem Solving
+
+* 200+ LeetCode Problems Solved
+* Strong foundation in Data Structures and Algorithms
+* Focus on Graphs, Trees, Dynamic Programming, and Problem Solving
+
+---
+
+## Current Focus
+
+* Full Stack Development
+* Backend Engineering
+* System Design
+* DevOps and Cloud Technologies
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/sharvesh-srinivasan-4a457a279/
+
+Email: [Sharvesh308@gmail.com](mailto:Sharvesh308@gmail.com)
